@@ -1,4 +1,6 @@
 t1
 t2
-t3
+<<<<<<< HEAD
 t4
+=======
+>>>>>>> parent of 7874bbe... 3rdcommit
